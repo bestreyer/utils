@@ -8,9 +8,6 @@
 #notes          :Install Vim and Emacs to use this script.
 #bash_version   :4.3.11(1)-release
 #==============================================================================
-# $1 - container_name
-# $2 - path to folder
-# $3 - remote path
 
 NO_ARGS=3
 
