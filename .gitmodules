@@ -1,6 +1,6 @@
 [submodule "mysqldumpsplitter"]
 	path = sql/mysqldumpsplitter
 	url = https://github.com/kedarvj/mysqldumpsplitter
-[submodule "mysqldump-to-csv"]
+[submodule "sql/mysqldump-to-csv"]
 	path = sql/mysqldump-to-csv
 	url = https://github.com/jamesmishra/mysqldump-to-csv.git
