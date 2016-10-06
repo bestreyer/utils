@@ -3,4 +3,4 @@
 	url = https://github.com/kedarvj/mysqldumpsplitter
 [submodule "sql/mysqldump-to-csv"]
 	path = sql/mysqldump-to-csv
-	url = https://github.com/jamesmishra/mysqldump-to-csv.git
+	url = https://github.com/bestreyer/mysqldump-to-csv/
