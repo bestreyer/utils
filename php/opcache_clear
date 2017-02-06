@@ -1,0 +1,5 @@
+#!/bin/bash
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+pushd $DIR
+./php-fpm-cli -r 'opcache_reset();' -connect /var/run/php/php7.0-forum-fpm.sock
+popd
